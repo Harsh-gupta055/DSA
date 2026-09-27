@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Harsh-gupta055/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Harsh-gupta055/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1332-remove-palindromic-subsequences](https://github.com/Harsh-gupta055/DSA/tree/master/1332-remove-palindromic-subsequences) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Harsh-gupta055/DSA/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1528-shuffle-string](https://github.com/Harsh-gupta055/DSA/tree/master/1528-shuffle-string) |
 | [1556-thousand-separator](https://github.com/Harsh-gupta055/DSA/tree/master/1556-thousand-separator) |
 ## Longest Increasing Subsequence
