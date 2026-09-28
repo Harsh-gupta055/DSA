@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh-gupta055/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0520-detect-capital](https://github.com/Harsh-gupta055/DSA/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/Harsh-gupta055/DSA/tree/master/0686-repeated-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Harsh-gupta055/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Harsh-gupta055/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
