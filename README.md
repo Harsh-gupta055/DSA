@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Harsh-gupta055/DSA/tree/master/1528-shuffle-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Harsh-gupta055/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harsh-gupta055/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-gupta055/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Harsh-gupta055/DSA/tree/master/0905-sort-array-by-parity) |
 | [1332-remove-palindromic-subsequences](https://github.com/Harsh-gupta055/DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harsh-gupta055/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-gupta055/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String Matching
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Harsh-gupta055/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Harsh-gupta055/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harsh-gupta055/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-gupta055/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-gupta055/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-gupta055/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
