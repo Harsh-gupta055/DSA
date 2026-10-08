@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harsh-gupta055/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harsh-gupta055/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-gupta055/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3731-find-missing-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -89,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Harsh-gupta055/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harsh-gupta055/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-gupta055/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3731-find-missing-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-gupta055/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Harsh-gupta055/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harsh-gupta055/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3731-find-missing-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
