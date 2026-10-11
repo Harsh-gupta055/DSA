@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Harsh-gupta055/DSA/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harsh-gupta055/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh-gupta055/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Harsh-gupta055/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/Harsh-gupta055/DSA/tree/master/0905-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Harsh-gupta055/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-gupta055/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Harsh-gupta055/DSA/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harsh-gupta055/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh-gupta055/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Harsh-gupta055/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/Harsh-gupta055/DSA/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-gupta055/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Harsh-gupta055/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh-gupta055/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Harsh-gupta055/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-gupta055/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Harsh-gupta055/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harsh-gupta055/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
