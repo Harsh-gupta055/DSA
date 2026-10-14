@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Harsh-gupta055/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Harsh-gupta055/DSA/tree/master/0905-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Harsh-gupta055/DSA/tree/master/0944-delete-columns-to-make-sorted) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Harsh-gupta055/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-gupta055/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Harsh-gupta055/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-shuffle-string](https://github.com/Harsh-gupta055/DSA/tree/master/1528-shuffle-string) |
@@ -93,12 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Harsh-gupta055/DSA/tree/master/0881-boats-to-save-people) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Harsh-gupta055/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Harsh-gupta055/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting
 |  |
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/Harsh-gupta055/DSA/tree/master/0869-reordered-power-of-2) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Harsh-gupta055/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Harsh-gupta055/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Sorting
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/Harsh-gupta055/DSA/tree/master/0869-reordered-power-of-2) |
 | [0881-boats-to-save-people](https://github.com/Harsh-gupta055/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Harsh-gupta055/DSA/tree/master/0905-sort-array-by-parity) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Harsh-gupta055/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harsh-gupta055/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Harsh-gupta055/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Harsh-gupta055/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
