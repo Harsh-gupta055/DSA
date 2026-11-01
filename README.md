@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harsh-gupta055/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harsh-gupta055/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Harsh-gupta055/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Harsh-gupta055/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harsh-gupta055/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-gupta055/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3731-find-missing-elements) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Harsh-gupta055/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Harsh-gupta055/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Harsh-gupta055/DSA/tree/master/1657-determine-if-two-strings-are-close) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Harsh-gupta055/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harsh-gupta055/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harsh-gupta055/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Harsh-gupta055/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Harsh-gupta055/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harsh-gupta055/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-gupta055/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3731-find-missing-elements) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Harsh-gupta055/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Harsh-gupta055/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harsh-gupta055/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Harsh-gupta055/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harsh-gupta055/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3731-find-missing-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3731-find-missing-elements) |
 ## Counting Sort
