@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Harsh-gupta055/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harsh-gupta055/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harsh-gupta055/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2418-sort-the-people](https://github.com/Harsh-gupta055/DSA/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harsh-gupta055/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-gupta055/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3731-find-missing-elements) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/Harsh-gupta055/DSA/tree/master/1678-goal-parser-interpretation) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Harsh-gupta055/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harsh-gupta055/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2418-sort-the-people](https://github.com/Harsh-gupta055/DSA/tree/master/2418-sort-the-people) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Harsh-gupta055/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harsh-gupta055/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Harsh-gupta055/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2418-sort-the-people](https://github.com/Harsh-gupta055/DSA/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harsh-gupta055/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-gupta055/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3731-find-missing-elements) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harsh-gupta055/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Harsh-gupta055/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harsh-gupta055/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2418-sort-the-people](https://github.com/Harsh-gupta055/DSA/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Harsh-gupta055/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3731-find-missing-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3731-find-missing-elements) |
 ## Counting Sort
