@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Harsh-gupta055/DSA/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Harsh-gupta055/DSA/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Harsh-gupta055/DSA/tree/master/2592-maximize-greatness-of-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/Harsh-gupta055/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-gupta055/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3745-maximize-expression-of-three-elements) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Harsh-gupta055/DSA/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Harsh-gupta055/DSA/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Harsh-gupta055/DSA/tree/master/2592-maximize-greatness-of-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/Harsh-gupta055/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-gupta055/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3745-maximize-expression-of-three-elements) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Harsh-gupta055/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh-gupta055/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harsh-gupta055/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2679-sum-in-a-matrix](https://github.com/Harsh-gupta055/DSA/tree/master/2679-sum-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
@@ -325,8 +328,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harsh-gupta055/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harsh-gupta055/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2679-sum-in-a-matrix](https://github.com/Harsh-gupta055/DSA/tree/master/2679-sum-in-a-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Harsh-gupta055/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2679-sum-in-a-matrix](https://github.com/Harsh-gupta055/DSA/tree/master/2679-sum-in-a-matrix) |
 <!---LeetCode Topics End-->
