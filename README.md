@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/Harsh-gupta055/DSA/tree/master/2592-maximize-greatness-of-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/Harsh-gupta055/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/Harsh-gupta055/DSA/tree/master/2706-buy-two-chocolates) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Harsh-gupta055/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-gupta055/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3745-maximize-expression-of-three-elements) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/Harsh-gupta055/DSA/tree/master/2592-maximize-greatness-of-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/Harsh-gupta055/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/Harsh-gupta055/DSA/tree/master/2706-buy-two-chocolates) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Harsh-gupta055/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-gupta055/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3745-maximize-expression-of-three-elements) |
