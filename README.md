@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Harsh-gupta055/DSA/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-gupta055/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2860-happy-students](https://github.com/Harsh-gupta055/DSA/tree/master/2860-happy-students) |
+| [2895-minimum-processing-time](https://github.com/Harsh-gupta055/DSA/tree/master/2895-minimum-processing-time) |
 | [3731-find-missing-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 ## String
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/Harsh-gupta055/DSA/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Harsh-gupta055/DSA/tree/master/2592-maximize-greatness-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/Harsh-gupta055/DSA/tree/master/2706-buy-two-chocolates) |
+| [2895-minimum-processing-time](https://github.com/Harsh-gupta055/DSA/tree/master/2895-minimum-processing-time) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Harsh-gupta055/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harsh-gupta055/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2860-happy-students](https://github.com/Harsh-gupta055/DSA/tree/master/2860-happy-students) |
+| [2895-minimum-processing-time](https://github.com/Harsh-gupta055/DSA/tree/master/2895-minimum-processing-time) |
 | [3731-find-missing-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
