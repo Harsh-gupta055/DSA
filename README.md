@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2860-happy-students](https://github.com/Harsh-gupta055/DSA/tree/master/2860-happy-students) |
 | [2895-minimum-processing-time](https://github.com/Harsh-gupta055/DSA/tree/master/2895-minimum-processing-time) |
 | [2974-minimum-number-game](https://github.com/Harsh-gupta055/DSA/tree/master/2974-minimum-number-game) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Harsh-gupta055/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3731-find-missing-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 ## String
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2860-happy-students](https://github.com/Harsh-gupta055/DSA/tree/master/2860-happy-students) |
 | [2895-minimum-processing-time](https://github.com/Harsh-gupta055/DSA/tree/master/2895-minimum-processing-time) |
 | [2974-minimum-number-game](https://github.com/Harsh-gupta055/DSA/tree/master/2974-minimum-number-game) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Harsh-gupta055/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3731-find-missing-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/Harsh-gupta055/DSA/tree/master/0869-reordered-power-of-2) |
 | [2860-happy-students](https://github.com/Harsh-gupta055/DSA/tree/master/2860-happy-students) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Harsh-gupta055/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 ## Bucket Sort
 |  |
