@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Harsh-gupta055/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Harsh-gupta055/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Harsh-gupta055/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Harsh-gupta055/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Harsh-gupta055/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Harsh-gupta055/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Harsh-gupta055/DSA/tree/master/2576-find-the-maximum-number-of-marked-indices) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Harsh-gupta055/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Harsh-gupta055/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Harsh-gupta055/DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Harsh-gupta055/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Harsh-gupta055/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Harsh-gupta055/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/Harsh-gupta055/DSA/tree/master/2576-find-the-maximum-number-of-marked-indices) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Harsh-gupta055/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh-gupta055/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harsh-gupta055/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Harsh-gupta055/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2679-sum-in-a-matrix](https://github.com/Harsh-gupta055/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2974-minimum-number-game](https://github.com/Harsh-gupta055/DSA/tree/master/2974-minimum-number-game) |
 ## Quickselect
@@ -356,11 +359,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Harsh-gupta055/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Harsh-gupta055/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Harsh-gupta055/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2679-sum-in-a-matrix](https://github.com/Harsh-gupta055/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2974-minimum-number-game](https://github.com/Harsh-gupta055/DSA/tree/master/2974-minimum-number-game) |
 ## Matrix
 |  |
 | ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Harsh-gupta055/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Harsh-gupta055/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2679-sum-in-a-matrix](https://github.com/Harsh-gupta055/DSA/tree/master/2679-sum-in-a-matrix) |
 <!---LeetCode Topics End-->
