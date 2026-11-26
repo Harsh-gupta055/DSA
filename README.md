@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3745-maximize-expression-of-three-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## String
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3745-maximize-expression-of-three-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Hash Table
 |  |
 | ------- |
