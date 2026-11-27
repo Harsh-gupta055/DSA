@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3842-toggle-light-bulbs](https://github.com/Harsh-gupta055/DSA/tree/master/3842-toggle-light-bulbs) |
 ## String
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3842-toggle-light-bulbs](https://github.com/Harsh-gupta055/DSA/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harsh-gupta055/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/Harsh-gupta055/DSA/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/Harsh-gupta055/DSA/tree/master/3842-toggle-light-bulbs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/Harsh-gupta055/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2679-sum-in-a-matrix](https://github.com/Harsh-gupta055/DSA/tree/master/2679-sum-in-a-matrix) |
 | [2974-minimum-number-game](https://github.com/Harsh-gupta055/DSA/tree/master/2974-minimum-number-game) |
+| [3842-toggle-light-bulbs](https://github.com/Harsh-gupta055/DSA/tree/master/3842-toggle-light-bulbs) |
 ## Matrix
 |  |
 | ------- |
